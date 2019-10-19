@@ -1,0 +1,41 @@
+body {
+    background-image: url("../images/background.jpg");
+}
+.content{
+    text-align:center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    width: 70%;
+    height: 675px;
+    margin-left: 15%;
+}
+
+#result{
+    height: 125px;
+}
+
+#start{
+    display: block;
+    width: 40%;
+    margin-left: 30%;
+    
+}
+img{
+    width: 450px;
+    height: 250px;
+}
+
+.title, .timer, .questions, .answers, .stats{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    background-color: blue;
+}
+
+.button, #start{
+    color:yellow;
+    font-size: 20px;
+    border-color: yellow;
+    background-color: blue;
+}
